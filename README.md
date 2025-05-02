@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+Mr+PARSLEY-XMD+Ofc" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+PARSLEY-XMD+KINGS" alt="Typing SVG" />
 </p>
 
 <p align="center">
