@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+Mr+Ntando+Ofc" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+Mr+PARSLEY-XMD+Ofc" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,10 +26,7 @@
   <p align="center">
 <a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
 
-<p align="center">
-  <a href="https://github.com/mrntandooofc/Ladybug-MD"><img title="Developer" src="https://img.shields.io/badge/Author-mrntandooofc-00FFFF.svg?style=for-the-badge&logo=github" />
-  </a>
-</
+
 <p align="center"><img src="https://profile-counter.glitch.me/{PARSLEY-XMD 1.0.0}/count.svg" alt="efkidgamerdev :: Visitor's Count" /></p>
 
 
